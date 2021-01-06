@@ -1,1 +1,3 @@
-exxen-clone
+# Exxen Clone
+
+Flutter Exxen Clone
